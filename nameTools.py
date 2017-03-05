@@ -77,7 +77,7 @@ def _surnameList():
     
     import csv
 
-    filepath = r'C:\Python\TextAnalysisTools\master\Last_Names.csv'
+    filepath = r'Last_Names.csv'
     with open(filepath, 'r', errors='ignore') as csvfile:
         surnames = list(csv.reader(csvfile))
     
