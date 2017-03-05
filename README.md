@@ -25,6 +25,6 @@ Possible merge necessary into nameTools.
 
 Basic functions which can be applied to a list of tokens. 
 
-### nameToolsTest.py
+### subtitleToolsTest.py
 
 Test script based upon seasons 1 - 6 of 24. Tests functions from srtTools and nameToolsTest
