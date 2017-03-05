@@ -27,4 +27,4 @@ Basic functions which can be applied to a list of tokens.
 
 ### subtitleToolsTest.py
 
-Test script based upon seasons 1 - 6 of 24. Tests functions from srtTools and nameToolsTest
+Test script based upon seasons 1 - 6 of 24. Tests functions from srtTools and nameTools.
